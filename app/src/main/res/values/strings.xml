@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GemficaStore</string>
+    <string name="menu_games">List Games</string>
+    <string name="menu_liked">Liked Games</string>
+    <string name="menu_about">About</string>
+    <string name="search_hint">Search Games</string>
+    <string name="empty_state_data">Not found :(</string>
+    <string name="title_activity_gemfica_app">GemficaApp</string>
+    <string name="button_play">Play Game</string>
+    <string name="about_name">Muhammad Zidan Tifanno N</string>
+    <string name="about_email">zidantifano@gmail.com</string>
+    <string name="label_detail_screen">Detail</string>
+    <string name="detail_content_genre">"Genre : "</string>
+    <string name="liked_screen_empty_state">Liked Games Empty :(</string>
+</resources>
